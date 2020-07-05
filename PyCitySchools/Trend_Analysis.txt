@@ -1,0 +1,8 @@
+A few observable trends based on 15 city schools' data analysis:
+
+1. The schools' overall passing rate drops significantly from approximately 90 % to 58% when school size is above 2000 students, except for one school (Wilson High School: 2283 students). Insterestingly, the budget per student of larger schools is very often higher than that of smaller schools. While one might suspect that a higher budget per student might allow school with more resources to promote better academic performances and thus contributing to a higher overall passing rate, the data seems to show the otherwise. In general, further investigation is required to identify factors that might be more directly coorelated to passing rates such as the number of teachers and teacher:student ratio. 
+
+2. Another distinctive trend is that charter schools in general perform much better in terms of average scores and overall passing rates compared to district schools. All charter schools (except for Wilson High School) have fewer than 2000 students. In the case of Holden High School (charter), the school size is as low as just 427 students. School size aside, it is not immediately clear if there are other characteristics associated with charter schools that might be correlated with higher overall passing rates.
+
+3. Generally speaking, students' scores and passing rates of reading are better than those of math. The differences between reading and math performances are greatest among students from schools with larger school size (i.e. above 2000).
+
